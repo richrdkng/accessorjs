@@ -1,6 +1,4 @@
-# js-util-accessor
-
-![logo](logo/js-util-accessor-logo.png)
+# ![logo](logo/js-util-accessor-logo.png)
 
 # License
 
