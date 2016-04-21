@@ -1,4 +1,4 @@
-# accessorjs
+# js-util-accessor
 
 # License
 
